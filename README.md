@@ -81,6 +81,7 @@ comments about AWS CodeStar on our forum.
 User Guide: https://docs.aws.amazon.com/codestar/latest/userguide/welcome.html
 
 Forum: https://forums.aws.amazon.com/forum.jspa?forumID=248
+This is the readme file
 
 What Should I Do Before Running My Project in Production?
 ------------------
